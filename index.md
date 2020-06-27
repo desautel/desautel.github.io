@@ -7,3 +7,6 @@ A couple of his films are Inside Man and Equalizer.
 * tall
 * deep voice
 * old
+
+## Quote
+> Don't bullshit a bullshiter
