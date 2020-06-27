@@ -11,4 +11,4 @@ A couple of his films are Inside Man and Equalizer.
 ## Quote
 > Don't bullshit a bullshiter
 
-![Denzel photo](https://wisetoast.com/wp-content/uploads/2016/08/Denzel-Washington-Net-Worth.jpg)
+<img src="https://wisetoast.com/wp-content/uploads/2016/08/Denzel-Washington-Net-Worth.jpg"/>
